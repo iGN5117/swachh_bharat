@@ -12,5 +12,5 @@ All for a certificate..
     * sub item 2.1
     * sub item 2.2
     
- [Google](www.google.com)
+ [Google](http://www.google.com)
     
