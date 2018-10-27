@@ -2,9 +2,7 @@
 All for a certificate..
 ## Hello
 ### World
-- bullet1
-  - bullett
-  
+* bullett 
   * list item 1
     * sub item 1
     * sub item 2
